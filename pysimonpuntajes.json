@@ -1,0 +1,1670 @@
+{
+    "__class__": "GestorPuntaje",
+    "lista": [
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:34",
+                "puntaje": 0
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "16:16",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "17:21",
+                "puntaje": 11
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:11",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:12",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 1
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "An\u00f3nimo",
+                "fecha": "12/06/2024",
+                "hora": "18:13",
+                "puntaje": 2
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 4
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:31",
+                "puntaje": 45
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:34",
+                "puntaje": 0
+            }
+        },
+        {
+            "__class__": "Jugador",
+            "__atributtes__": {
+                "nombre": "mariano",
+                "fecha": "12/06/2024",
+                "hora": "21:34",
+                "puntaje": 13
+            }
+        }
+    ]
+}
