@@ -90,7 +90,6 @@ class SimonGame():
         self.__botonPresionado = StringVar()# Boton que presiono el Jugador
         self.__ventana.update()
         self.__ventana.wait_variable(self.__difActual)
-        self.__ventana.after(1000,print("Inicia!"))
         self.iniciarJuego()
         self.__ventana.mainloop()
     
@@ -121,7 +120,6 @@ class SimonGame():
     def SeleccionNormal(self):
         while self.__juego: #Inicio del juego NORMAL O EXPERTO
             botonRamdom = choice(botones)
-            print(botonRamdom)
             self.__elecciones.append(botonRamdom)
             for i in range(len(self.__elecciones)):
                 if self.__elecciones[i] == "verde":
@@ -160,7 +158,6 @@ class SimonGame():
         bandera = False
         while self.__juego: #Inicio en SUPER EXPERTO
             duplaRandom = sample(botones,2)
-            print(duplaRandom)
             self.__elecciones.append(duplaRandom)
             self.__juego = False
             

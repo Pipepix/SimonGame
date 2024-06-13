@@ -1,4 +1,4 @@
-ARCHIVO_PUNTAJES = 'pysimonpuntajes.json'
+ARCHIVO_PUNTAJES = './pysimonpuntajes.json'
 
 dificultadesBotones = {
     "Normal":(1000,1500),
