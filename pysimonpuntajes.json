@@ -2,36 +2,36 @@
     "__class__": "GestorPuntaje",
     "lista": [
         {
-            "__class__": "Hoklat",
+            "__class__": "Jugador",
             "__atributtes__": {
-                "nombre": "An\u00f3nimo",
+                "nombre": "Hoklat",
                 "fecha": "12/06/2024",
                 "hora": "16:16",
                 "puntaje": 3
             }
         },
         {
-            "__class__": "Motormax",
+            "__class__": "Jugador",
             "__atributtes__": {
-                "nombre": "An\u00f3nimo",
+                "nombre": "Motormax",
                 "fecha": "13/06/2024",
                 "hora": "09:52",
                 "puntaje": 45
             }
         },
         {
-            "__class__": "Pipepix",
+            "__class__": "Jugador",
             "__atributtes__": {
-                "nombre": "An\u00f3nimo",
+                "nombre": "Pipepix",
                 "fecha": "13/06/2024",
                 "hora": "09:52",
                 "puntaje": 100
             }
         },
         {
-            "__class__": "Marianito",
+            "__class__": "Jugador",
             "__atributtes__": {
-                "nombre": "An\u00f3nimo",
+                "nombre": "Marianito",
                 "fecha": "13/06/2024",
                 "hora": "09:52",
                 "puntaje": 47
